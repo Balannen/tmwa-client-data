@@ -97,4 +97,6 @@
   <include name="items/usable/item3010_CandyPumpkin.xml"/>
   <include name="items/usable/item4035_PickledBeets.xml"/>
   <include name="items/usable/item4036_RoastedAcorn.xml"/>
+  <include name="items/usable/item6006_DragonEgg.xml"/>
+  <include name="items/usable/item6606_HatchingPotion.xml"/>
 </items>
