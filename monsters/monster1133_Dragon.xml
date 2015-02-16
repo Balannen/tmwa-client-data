@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+  <monster id="1133" name="Dragon">
+    <sprite>monsters/dragon.xml</sprite>
+    <sound event="die" ref="http://www.freesound.org/people/Groadr/sounds/253473/">monsters/dragon/dragon-die.ogg</sound>
+    <sound event="hurt" ref="Dragon Pain.flac http://www.freesound.org/people/qubodup/sounds/219944 by Iwan ‘qubodup’ Gabovitch http://freesound.org/people/qubodup under CC-BY 3.0 License http://creativecommons.org/licenses/by/3.0/legalcode uses Fighting Game grunts - young female.wav http://freesound.org/people/AderuMoro/sounds/213295/ by AderuMoro http://freesound.org/people/AderuMoro/">monsters/dragon/dragon-hit.ogg</sound>
+    <sound event="spawn" ref="Dragon Scream.flac http://www.freesound.org/people/qubodup/sounds/219943 by Iwan ‘qubodup’ Gabovitch http://freesound.org/people/qubodup under CC-BY 3.0 License http://creativecommons.org/licenses/by/3.0/legalcode uses Fighting Game grunts - young female.wav http://freesound.org/people/AderuMoro/sounds/213295/ by AderuMoro http://freesound.org/people/AderuMoro/" >monsters/dragon/dragon-spawn.ogg</sound>
+  </monster>
+</monsters>
