@@ -115,6 +115,9 @@
   <map name="001-2.tmx">
     <atlas name="interiordesert"/>
   </map>
+  <map name="066-2.tmx">
+    <atlas name="interiordesert"/>
+  </map>
   <map name="002-2.tmx">
     <atlas name="interiordesert"/>
   </map>
