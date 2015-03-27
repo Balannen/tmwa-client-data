@@ -11,6 +11,27 @@
   <map name="006-1.tmx">
     <atlas name="desert"/>
   </map>
+  <map name="067-7.tmx">
+    <atlas name="desert"/>
+  </map>
+  <map name="067-8.tmx">
+    <atlas name="desert"/>
+  </map>
+  <map name="067-9.tmx">
+    <atlas name="desert"/>
+  </map>
+  <map name="067-10.tmx">
+    <atlas name="desert"/>
+  </map>
+  <map name="067-11.tmx">
+    <atlas name="desert"/>
+  </map>
+  <map name="067-12.tmx">
+    <atlas name="desert"/>
+  </map>
+  <map name="067-13.tmx">
+    <atlas name="desert"/>
+  </map>
   <!-- Woodland -->
   <map name="007-1.tmx">
     <atlas name="woodland"/>
